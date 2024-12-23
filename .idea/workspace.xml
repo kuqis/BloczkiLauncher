@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="55b635b9-26e3-492f-93d5-0e3dfed60b5b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher" beforeDir="false" afterPath="$PROJECT_DIR$/BloczkiLauncher" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Black.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-BlackOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Book.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-BookOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Heavy.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-HeavyOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Light.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-LightOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Medium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-MediumOblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Oblique.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/Avenir-Roman.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/fonts/ringbearer.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/images/SealCircle.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/authmanager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/configmanager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/discordwrapper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/distromanager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/dropinmodutil.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/ipcconstants.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/isdev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/langloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/preloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/processbuilder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/landing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/login.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/loginOptions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/overlay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/uibinder.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/uicore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/scripts/welcome.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/app/assets/js/serverstatus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BloczkiLauncher/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2q5kwA8MBwbW3d7h5mDhtWqkJwi" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "4d42088b",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b635b9-26e3-492f-93d5-0e3dfed60b5b" name="Changes" comment="" />
+      <created>1733960061798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733960061798</updated>
+      <workItem from="1733960063209" duration="4548000" />
+      <workItem from="1733964836844" duration="2002000" />
+      <workItem from="1734050351388" duration="4852000" />
+      <workItem from="1734128748910" duration="8746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

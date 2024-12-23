@@ -24,7 +24,7 @@ let lu = false, lp = false
 
 /**
  * Show a login error.
- * 
+ *
  * @param {HTMLElement} element The element on which to display the error.
  * @param {string} value The error text.
  */
@@ -35,7 +35,7 @@ function showError(element, value){
 
 /**
  * Shake a login error to add emphasis.
- * 
+ *
  * @param {HTMLElement} element The element to shake.
  */
 function shakeError(element){
@@ -48,7 +48,7 @@ function shakeError(element){
 
 /**
  * Validate that an email field is neither empty nor invalid.
- * 
+ *
  * @param {string} value The email value.
  */
 function validateEmail(value){
@@ -73,7 +73,7 @@ function validateEmail(value){
 
 /**
  * Validate that the password field is not empty.
- * 
+ *
  * @param {string} value The password value.
  */
 function validatePassword(value){
@@ -110,7 +110,7 @@ loginPassword.addEventListener('input', (e) => {
 
 /**
  * Enable or disable the login button.
- * 
+ *
  * @param {boolean} v True to enable, false to disable.
  */
 function loginDisabled(v){
@@ -121,7 +121,7 @@ function loginDisabled(v){
 
 /**
  * Enable or disable loading elements.
- * 
+ *
  * @param {boolean} v True to enable, false to disable.
  */
 function loginLoading(v){
@@ -136,7 +136,7 @@ function loginLoading(v){
 
 /**
  * Enable or disable login form.
- * 
+ *
  * @param {boolean} v True to enable, false to disable.
  */
 function formDisabled(v){

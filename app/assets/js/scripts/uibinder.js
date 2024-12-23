@@ -7,6 +7,7 @@ const path          = require('path')
 const { Type }      = require('helios-distribution-types')
 
 const AuthManager   = require('./assets/js/authmanager')
+const AuthManagerOffline = require('./assets/js/offline/authmanager-offline')
 const ConfigManager = require('./assets/js/configmanager')
 const { DistroAPI } = require('./assets/js/distromanager')
 
@@ -18,6 +19,7 @@ const VIEWS = {
     landing: '#landingContainer',
     loginOptions: '#loginOptionsContainer',
     login: '#loginContainer',
+    loginOffline: '#loginOfflineContainer',
     settings: '#settingsContainer',
     welcome: '#welcomeContainer',
     waiting: '#waitingContainer'
@@ -68,8 +70,8 @@ async function showMainUI(data){
     updateSelectedServer(data.getServerById(ConfigManager.getSelectedServer()))
     refreshServerStatus()
     setTimeout(() => {
-        document.getElementById('frameBar').style.backgroundColor = 'rgba(0, 0, 0, 0.5)'
-        document.body.style.backgroundImage = `url('assets/images/backgrounds/${document.body.getAttribute('bkid')}.jpg')`
+        document.getElementById('frameBar').style.backgroundColor = 'rgba(0, 0, 0, 0.85)'
+        document.body.style.backgroundImage = `url('assets/images/backgrounds/${document.body.getAttribute('bkid')}.png')`
         $('#main').show()
 
         const isLoggedIn = Object.keys(ConfigManager.getAuthAccounts()).length > 0
@@ -103,10 +105,6 @@ async function showMainUI(data){
         }, 250)
         
     }, 750)
-    // Disable tabbing to the news container.
-    initNews().then(() => {
-        $('#newsContainer *').attr('tabindex', '-1')
-    })
 }
 
 function showFatalStartupError(){
@@ -135,7 +133,6 @@ function showFatalStartupError(){
 function onDistroRefresh(data){
     updateSelectedServer(data.getServerById(ConfigManager.getSelectedServer()))
     refreshServerStatus()
-    initNews()
     syncModConfigurations(data)
     ensureJavaSettings(data)
 }
