@@ -550,7 +550,7 @@ async function dlAsync(login = true) {
 
             proc.on('close', () => {
                 setLaunchEnabled(true)
-                launch_button.innerHTML = 'JOGAR'
+                launch_button.innerHTML = 'GRAJ'
             })
 
             setLaunchDetails(Lang.queryJS('landing.dlAsync.doneEnjoyServer'))
