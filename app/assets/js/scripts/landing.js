@@ -546,7 +546,7 @@ async function dlAsync(login = true) {
             proc.stderr.on('data', gameErrorListener)
 
             setLaunchEnabled(false)
-            launch_button.innerHTML = 'Executando...'
+            launch_button.innerHTML = 'Uruchamianie...'
 
             proc.on('close', () => {
                 setLaunchEnabled(true)
