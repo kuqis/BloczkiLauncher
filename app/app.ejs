@@ -5,6 +5,7 @@
     <script src="./assets/js/scripts/uicore.js"></script>
     <script src="./assets/js/scripts/uibinder.js"></script>
     <link type="text/css" rel="stylesheet" href="./assets/css/launcher.css">
+    <link type="text/css" rel="stylesheet" href="./assets/css/offline-login.css">
     <style>
         body {
             /*background: url('assets/images/backgrounds/<%=bkid%>.jpg') no-repeat center center fixed;*/
@@ -33,6 +34,7 @@
         <%- include('login') %>
         <%- include('waiting') %>
         <%- include('loginOptions') %>
+        <%- include('loginOffline') %>
         <%- include('settings') %>
         <%- include('landing') %>
     </div>
@@ -41,7 +43,6 @@
         <div id="loadingContent">
             <div id="loadSpinnerContainer">
                 <img id="loadCenterImage" src="assets/images/LoadingSeal.png">
-                <img id="loadSpinnerImage" class="rotating" src="assets/images/LoadingText.png">
             </div>
         </div>
     </div>
