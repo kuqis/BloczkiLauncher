@@ -26,13 +26,16 @@ loginEmailPlaceholder = "EMAIL LUB NAZWA UŻYTKOWNIKA"
 loginPasswordError = "* Wymagane"
 loginPasswordPlaceholder = "HASŁO"
 loginForgotPasswordLink = "https://minecraft.net/password/forgot/"
-loginForgotPasswordText = "zapomniałeś hasła?"
+loginForgotPasswordText = "Zapomniałeś hasło?"
 loginRememberMeText = "Zapamiętać?"
 loginButtonText = "ZALOGUJ"
 loginNeedAccountLink = "https://minecraft.net/store/minecraft-java-edition/"
-loginNeedAccountText = "Potrzebujesz konta?"
+loginNeedAccountText = "Utwórz konto Microsoft"
 loginPasswordDisclaimer1 = "Twoje hasło jest wysyłane bezpośrednio do mojang i nigdy nie jest przechowywane."
 loginPasswordDisclaimer2 = "{appName} is not affiliated with Mojang AB."
+
+[ejs.loginOffline]
+loginOfflineUsername = "NAZWA UŻYTKOWNIKA"
 
 [ejs.loginOptions]
 loginOptionsTitle = "Opcje logowania"

@@ -34,6 +34,9 @@ loginNeedAccountText = "Need an Account?"
 loginPasswordDisclaimer1 = "Your password is sent directly to mojang and never stored."
 loginPasswordDisclaimer2 = "{appName} is not affiliated with Mojang AB."
 
+[ejs.loginOffline]
+loginOfflineUsername = "USERNAME"
+
 [ejs.loginOptions]
 loginOptionsTitle = "Login Options"
 loginWithMicrosoft = "Login with Microsoft"

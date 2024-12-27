@@ -1,5 +1,5 @@
 appId: 'bloczkilauncher'
-productName: 'Bloczki Launcher'
+productName: 'Bloczki-Launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2024 Kuqis'
