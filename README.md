@@ -2,7 +2,7 @@
 
 <h1 align="center">Bloczki Launcher</h1>
 
-<em><h5 align="center">(formerly Electron Launcher)</h5></em>
+<em><h5 align="center">(Helios Launcher fork)</h5></em>
 
 
 <p align="center">Już dziś dołącz do serwera BLOCZKI.FUN i podróżuj po świecie razem z nami!</p>
